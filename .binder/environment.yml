@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python=3.8
   - jupyter
+  - xarray=2022.3.0
   - intake
   - intake-xarray
   - rasterio
