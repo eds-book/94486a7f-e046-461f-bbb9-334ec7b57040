@@ -1,7 +1,7 @@
 name: forest-modelling-treecrown_detectreeRGB
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - python=3.8
   - jupyter
