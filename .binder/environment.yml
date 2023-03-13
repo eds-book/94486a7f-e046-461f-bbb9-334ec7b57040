@@ -18,6 +18,10 @@ dependencies:
   - datashader
   - jinja2==3.0.2
   - pycurl
+  - geopandas
+  - rasterio
+  - fiona
+  - shapely
   - pip
   - pip:
       - git+https://github.com/ESM-VFC/intake_zenodo_fetcher.git
