@@ -17,7 +17,7 @@ dependencies:
   - cartopy
   - datashader
   - jinja2==3.0.2
+  - pycurl
   - pip
   - pip:
-      - pycurl
       - git+https://github.com/ESM-VFC/intake_zenodo_fetcher.git
