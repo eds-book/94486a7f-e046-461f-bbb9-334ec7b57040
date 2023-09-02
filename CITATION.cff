@@ -12,7 +12,7 @@ authors:
 version: v1.0.0 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.8311271
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate how to delineating trees using detectron2, a library that provides state-of-the-art deep learning detection and segmentation algorithms."
 keywords:
