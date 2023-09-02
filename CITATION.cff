@@ -9,7 +9,7 @@ authors:
     affiliation: University of Cambridge
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/94486a7f-e046-461f-bbb9-334ec7b57040/graphs/contributors"
-version: v1.0.0 # This is automatically set using the bumpversion tool.
+version: v1.0.1 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8311271
