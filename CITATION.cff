@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Tree crown delineation using detectreeRGB (Jupyter Notebook) published in the Environmental Data Science book"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Hickman
+    given-names: Sebastian H. M.
+    website: https://github.com/shmh40
+    affiliation: University of Cambridge
+  - name: "This EDS book notebook contributors"
+    website: "https://github.com/eds-book-gallery/94486a7f-e046-461f-bbb9-334ec7b57040/graphs/contributors"
+version: v1.0.0 # This is automatically set using the bumpversion tool.
+identifiers:
+  - type: doi
+    value: TBA
+    description: The concept DOI for the collection containing all versions of the notebook.
+abstract: "Notebook developed to demonstrate how to delineating trees using detectron2, a library that provides state-of-the-art deep learning detection and segmentation algorithms."
+keywords:
+  - Environmental Data Science
+  - Forest
+  - Modelling
+  - Deep learning
