@@ -18,7 +18,7 @@ dependencies:
   - jinja2==3.0.2
   - pycurl
   - geopandas
-  - rasterio
+  - rioxarray
   - fiona
   - shapely
   - geoviews
