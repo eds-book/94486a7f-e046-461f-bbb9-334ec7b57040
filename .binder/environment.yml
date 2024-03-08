@@ -22,8 +22,8 @@ dependencies:
   - fiona
   - shapely
   - geoviews
+  - pooch
   - pip
   - numpy==1.23.0
   - pip:
-      - git+https://github.com/ESM-VFC/intake_zenodo_fetcher.git
       - git+https://github.com/facebookresearch/detectron2.git
