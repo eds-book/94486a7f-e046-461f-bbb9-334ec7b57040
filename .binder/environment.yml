@@ -2,6 +2,7 @@ name: 94486a7f-e046-461f-bbb9-334ec7b57040
 channels:
   - conda-forge
 dependencies:
+  - python=3.8
   - jupyter
   - xarray
   - intake
