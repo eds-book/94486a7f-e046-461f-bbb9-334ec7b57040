@@ -7,8 +7,7 @@ dependencies:
   - xarray=2022.3.0
   - intake
   - intake-xarray
-  - rasterio==1.2.*
-  - opencv
+  - rasterio==1.2.10
   - pytorch==1.8.0
   - torchvision==0.9.0
   - tqdm
@@ -26,4 +25,5 @@ dependencies:
   - pip
   - numpy==1.23.0
   - pip:
+      - opencv-contrib-python
       - git+https://github.com/facebookresearch/detectron2.git
