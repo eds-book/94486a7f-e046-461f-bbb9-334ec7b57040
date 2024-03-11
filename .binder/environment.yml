@@ -4,17 +4,16 @@ channels:
 dependencies:
   - python=3.8
   - jupyter
-  - xarray=2022.3.0
+  - xarray
   - intake
   - intake-xarray
-  - rasterio==1.2.10
+  - rasterio
   - pytorch==1.8.0
   - torchvision==0.9.0
   - tqdm
   - hvplot
   - cartopy
   - datashader
-  - jinja2==3.0.2
   - pycurl
   - geopandas
   - rioxarray
