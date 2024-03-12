@@ -1,6 +1,7 @@
 name: 94486a7f-e046-461f-bbb9-334ec7b57040
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.8
   - jupyter
@@ -25,4 +26,3 @@ dependencies:
   - numpy==1.23.0
   - pip:
       - opencv-contrib-python
-      - git+https://github.com/facebookresearch/detectron2.git
