@@ -43,6 +43,7 @@ project:
     - forest
     - modelling
     - deep learning
+  funding: The project was supported by the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks ([AI4ER](https://ai4er-cdt.esc.cam.ac.uk/)) (EP/S022961/1).
   venue:
     title: Environmental Data Science Book
     short_title: EDS Book
