@@ -1,22 +1,37 @@
 cff-version: 1.2.0
-title: "Tree crown delineation using detectreeRGB (Jupyter Notebook) published in the Environmental Data Science book"
-message: "If you use this software, please cite it using the metadata from this file."
-type: software
+message: Please cite the following works when using this project.
+abstract: >-
+  Notebook developed to demonstrate how to delineating trees using detectron2, a
+  library that provides state-of-the-art deep learning detection and
+  segmentation algorithms.
+title: >-
+  Tree crown delineation using detectreeRGB (Jupyter Notebook) published in the
+  Environmental Data Science book
 authors:
   - family-names: Hickman
     given-names: Sebastian H. M.
-    website: https://github.com/shmh40
     affiliation: University of Cambridge
-  - name: "This EDS book notebook contributors"
-    website: "https://github.com/eds-book-gallery/94486a7f-e046-461f-bbb9-334ec7b57040/graphs/contributors"
-version: v1.0.4 # This is automatically set using the bumpversion tool.
+    orcid: 0000-0002-0148-935X
+    email: shmh4@cam.ac.uk
+    website: https://github.com/shmh40
+date-released: '2024-09-13'
+contact:
+  - family-names: Hickman
+    given-names: Sebastian H. M.
+    affiliation: University of Cambridge
+    orcid: 0000-0002-0148-935X
+    email: shmh4@cam.ac.uk
+    website: https://github.com/shmh40
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8311271
-    description: The concept DOI for the collection containing all versions of the notebook.
-abstract: "Notebook developed to demonstrate how to delineating trees using detectron2, a library that provides state-of-the-art deep learning detection and segmentation algorithms."
 keywords:
-  - Environmental Data Science
-  - Forest
-  - Modelling
-  - Deep learning
+  - environmental data science
+  - forest
+  - modelling
+  - deep learning
+license: MIT
+license-url: https://opensource.org/license/MIT
+repository: https://github.com/eds-book/94486a7f-e046-461f-bbb9-334ec7b57040
+type: software
+version: v1.1.0
