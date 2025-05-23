@@ -13,7 +13,7 @@ project:
       orcid: 0000-0002-0148-935X
       corresponding: true
       email: shmh4@cam.ac.uk
-      url: https://github.com/shmh40
+      github: shmh40
       roles:
         - Investigation
         - Software
@@ -24,7 +24,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
-      url: https://github.com/acocac
+      github: acocac
       roles:
         - Writing – review & editing
       affiliations:
