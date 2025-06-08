@@ -1,4 +1,4 @@
-# Tree crown delineation using detectreeRGB</h1>
+# Tree crown delineation using detectreeRGB
 
 <p align="center">
     <a href="https://github.com/eds-book/94486a7f-e046-461f-bbb9-334ec7b57040/actions/workflows/monthly-build.yaml/badge.svg">
